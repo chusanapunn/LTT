@@ -15,6 +15,7 @@ streamlit run testApp.py
 ```python
 conda env export > environment.yml
 ```
+don't forget to push it to repo
 
 
 
