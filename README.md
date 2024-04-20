@@ -23,6 +23,7 @@ conda env export > environment.yml # Create env file
 conda env update --file environment.yml --prune
 
 ```
+
 # openAI secret API key
 sk-proj-5J7w4jYq8jOwGZ9SBuCoT3BlbkFJGAvJfrqcBlFhOBqPDmrk
 
@@ -32,5 +33,6 @@ sk-proj-5J7w4jYq8jOwGZ9SBuCoT3BlbkFJGAvJfrqcBlFhOBqPDmrk
 ## 2. MLFLOW for monitoring/evaluation
 ## 3. LANGCHAIN LLM to talk with each other
 ## 4. Streamlit UI for Front-End
+
 
 
