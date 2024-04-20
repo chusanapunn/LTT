@@ -19,9 +19,11 @@ git pull
 
 ## If you add any library, don't forget to;
 ```python
-conda env export > environment.yml
-```
-don't forget to push it to repo
+conda env export > environment.yml # Create env file
+conda env update --file environment.yml --prune
 
+```
+# Task
+## LLM to talk with each other
 
 
