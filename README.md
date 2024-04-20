@@ -4,7 +4,10 @@ conda create -n lttenv
 conda activate lttenv
 
 conda install --yes --file requirements.txt
+```
 
+## Run test App
+```python
 streamlit run testApp.py
 ```
 
