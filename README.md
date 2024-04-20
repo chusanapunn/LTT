@@ -10,7 +10,6 @@ conda install --name lttenv --file requirements.txt
 conda activate lttenv
 # Main tools
 # mlflow
-# apache-airflow[s3, postgres]
 # streamlit
 # dvc
 # mamba - install dvc
