@@ -24,12 +24,12 @@ conda env update --file environment.yml --prune
 
 ```
 
-# openAI secret API key
-sk-proj-5J7w4jYq8jOwGZ9SBuCoT3BlbkFJGAvJfrqcBlFhOBqPDmrk
+# Task - Cars detection
+## Find Different cars dataset, differs quality (road, showroom) - Put it on to DVC
+## Different models (resnet, mobilenet, yolo etc) - implement each with mlflow
+## Allow using different models in the streamlit UI, input images, output interface
 
-# Task
-## Cars detection
-## Different cars dataset, differs quality (road, showroom)
-## Different models (resnet, mobilenet, yolo etc)
+
+
 
 
