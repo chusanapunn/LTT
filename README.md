@@ -3,7 +3,7 @@
 conda create -n lttenv
 conda activate lttenv
 
-conda env create -n lttenv -f environment.yml
+conda env create -n lttenv -f environment.yml --force
 ```
 
 ## Run test App
