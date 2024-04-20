@@ -4,7 +4,7 @@
 conda create -n lttenv
 conda activate lttenv
 
-conda install --yes --file requirements.txt
+conda env create -n lttenv -f environment.yml --force
 ```
 
 ## Run test App
@@ -19,7 +19,9 @@ git pull
 
 ## If you add any library, don't forget to;
 ```python
-pip3 freeze > requirements.txt
+conda env export > environment.yml # Create env file
+conda env update --file environment.yml --prune
+
 ```
 
 
