@@ -19,8 +19,10 @@ git pull
 
 ## If you add any library, don't forget to;
 ```python
+# The one add any library create env.yml file for others
 conda env export > environment.yml # Create env file
-conda env update --file environment.yml --prune
+# Use above .yml file to update environnment
+conda env update --file environment.yml --prune # Update environment using the above env.yml file
 
 ```
 
