@@ -28,11 +28,8 @@ conda env update --file environment.yml --prune
 sk-proj-5J7w4jYq8jOwGZ9SBuCoT3BlbkFJGAvJfrqcBlFhOBqPDmrk
 
 # Task
-## 0. Create proper prompt set
-## 1. DVC for prompt-answer storage
-## 2. MLFLOW for monitoring/evaluation
-## 3. LANGCHAIN LLM to talk with each other
-## 4. Streamlit UI for Front-End
-
+## Cars detection
+## Different cars dataset, differs quality (road, showroom)
+## Different models (resnet, mobilenet, yolo etc)
 
 
