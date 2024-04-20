@@ -1,10 +1,19 @@
 # Setup And Update
 ## Create environment and Install equirement
 ```python
+# 1st way
 conda create --name lttenv --file requirements.txt
 conda activate lttenv
-
-conda env create -n lttenv -f environment.yml --force
+# or
+conda create -n lttenv
+conda install --name lttenv --file requirements.txt
+conda activate lttenv
+# Main tools
+# mlflow
+# apache-airflow[s3, postgres]
+# streamlit
+# dvc
+# mamba - install dvc
 ```
 
 ## Run test App
@@ -14,16 +23,13 @@ streamlit run testApp.py
 
 # Updating to git
 Wokring in vscode, In source control -> 3dots (...)-> Checkout to "development" branch
-git pull 
-
 
 ## If you add any library, don't forget to;
 ```python
 # Create requirements file
 conda list --explicit > requirements.txt
-# Use above .yml file to update environnment
-conda env update --file requirements.txt --prune # Update environment using the above env.yml file
-
+# Use above .txt file to update environnment
+conda env update --file requirements.txt --prune # Update environment using the above .txt file
 ```
 
 # Task - Cars detection
