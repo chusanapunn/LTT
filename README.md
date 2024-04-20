@@ -11,7 +11,7 @@ conda activate lttenv
 # Main tools
 # mlflow
 # streamlit
-# dvc
+# gcs
 # mamba - install dvc
 ```
 
@@ -32,11 +32,32 @@ conda env update --file requirements.txt --prune # Update environment using the 
 ```
 
 # Task - Cars detection
-## Find Different cars dataset, differs quality (road, showroom) - Put it on to DVC
+
+## Find Different cars dataset, differs quality (road, showroom) - Put it on to DVC, GCS
+### Dataset from kaggle
+Use only "street_data" select only reasonable portion of it to work on
+https://www.kaggle.com/datasets/mikhailma/house-rooms-streets-image-dataset
+
+### GCS
+https://cloud.google.com/sdk/docs/install
+After installing Google cloud CLI
+Authenticate yourself with gcloud *also give me your google cloud storage email for permission*
+```bash
+gcloud auth application-default login
+```
+Then run the "test_GCS_getdata.ipynb", I provide code to simple fetching the data out while setting environment variable for gcs.
+### DVC
+WIP -> use DVC to track GCS data version
+If anyone wanna work on this --> https://dvc.org/doc/user-guide/data-management/remote-storage/google-cloud-storage 
+
 ## Different models (resnet, mobilenet, yolo etc) - implement each with mlflow
+### Implement car detection model and metrics (recall, precision at k, AUC ROC etc.)
+
+Evaluation Metrics: Precision, Recall, AUC ROC, F1 Score.
+
 ## Allow using different models in the streamlit UI, input images, output interface
 
-
+##
 
 
 
