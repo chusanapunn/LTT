@@ -1,7 +1,7 @@
 # Setup And Update
 ## Create environment and Install equirement
 ```python
-conda create -n lttenv
+conda create --name lttenv --file requirements.txt
 conda activate lttenv
 
 conda env create -n lttenv -f environment.yml --force
