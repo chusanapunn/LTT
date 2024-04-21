@@ -26,9 +26,9 @@ Wokring in vscode, In source control -> 3dots (...)-> Checkout to "development" 
 ## If you add any library, don't forget to;
 ```python
 # Create requirements file
-conda list --explicit > requirements.txt
+conda list --export > requirements.txt
 # Use above .txt file to update environnment
-conda env update --file requirements.txt --prune # Update environment using the above .txt file
+pip3 install -r requirements.txt # Update environment using the above .txt file
 ```
 
 # Task - Cars detection
