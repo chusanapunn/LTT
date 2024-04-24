@@ -1,18 +1,11 @@
 import streamlit as st
 import cv2
 import numpy as np
-from google.cloud import storage
 from PIL import Image
+from google.cloud import storage
 import os
-
-import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-# from keras.preprocessing.image import ImageDataGenerator
-import mlflow
-from torchvision.models.detection import fasterrcnn_resnet50_fpn, maskrcnn_resnet50_fpn
-
 from ultralytics import YOLO
+from torchvision.models.detection import fasterrcnn_resnet50_fpn
 
 bucket_name = "mlops-car-detection"
 os.environ.setdefault("GCLOUD_PROJECT","mlops-cardetection")
@@ -20,8 +13,7 @@ os.environ.setdefault("GCLOUD_PROJECT","mlops-cardetection")
 # Initialize the storage client
 storage_client = storage.Client()
 
-
-
+# Function to load the selected model
 def load_model(model_name, **kwargs):
     if model_name == 'ResNet':
         # Load ResNet model
@@ -49,19 +41,23 @@ def load_model(model_name, **kwargs):
 def main():
     st.title("Car Detection")
 
-    # Model selection
-    selected_model = st.selectbox("Select Model", ["YOLO","ResNet"])
+    # Sidebar for model selection and parameter tuning
+    st.sidebar.title("Model Configuration")
+    selected_model = st.sidebar.selectbox("Select Model", ["YOLO", "ResNet"])
 
     # Parameter tuning
     if selected_model == "ResNet":
-        # Add widgets for tuning ResNet parameters
-        learning_rate = st.slider("Learning Rate", 0.001, 0.01, 0.001, 0.001)
-        num_epochs = st.slider("Number of Epochs", 1, 20, 10, 1)
+        st.sidebar.header("ResNet Parameters")
+        learning_rate = st.sidebar.slider("Learning Rate", 0.001, 0.01, 0.001, 0.001)
+        num_epochs = st.sidebar.slider("Number of Epochs", 1, 20, 10, 1)
     elif selected_model == "YOLO":
-    # Add widgets for tuning YOLO parameters
-        confidence_threshold = st.slider("Confidence Threshold", 0.0, 1.0, 0.5, 0.01)
-        input_size_options = [(320, 320), (416, 416), (608, 608)]  # List of tuples
-        input_size = st.select_slider("Input Size", options=input_size_options)
+        st.sidebar.header("YOLO Parameters")
+        confidence_threshold = st.sidebar.slider("Confidence Threshold", 0.0, 1.0, 0.5, 0.01)
+        input_size_options = [(320, 320), (416, 416), (608, 608)]
+        input_size = st.sidebar.select_slider("Input Size", options=input_size_options)
+
+    # Main content area
+    st.sidebar.markdown("---")
 
     # Upload image file
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
@@ -71,26 +67,31 @@ def main():
         model = load_model(selected_model)
 
         # Display the uploaded image
+        st.header("Uploaded Image")
         image = Image.open(uploaded_file)
-        st.image(image, caption="Uploaded Image", use_column_width=True)
+        st.image(image, caption="Original Image", use_column_width=True)
 
         # Convert PIL image to OpenCV format
         cv_image = np.array(image)
 
         # Process the image
         processed_image = model.predict(cv_image)
-        
-        cv_plot = processed_image[0].plot()
-        cv_plot = cv2.cvtColor(cv_plot,cv2.COLOR_BGR2RGB)
 
+        # Plot the results and convert to RGB
+        cv_plot = processed_image[0].plot()
+        cv_plot = cv2.cvtColor(cv_plot, cv2.COLOR_BGR2RGB)
+
+        # Convert the image to bytes
         img_bytes = cv2.imencode(".png", cv_plot)[1].tobytes()
 
-        # Display the image in Streamlit
+        # Display the processed image with bounding boxes
+        st.header("Processed Image with Bounding Boxes")
         st.image(img_bytes, caption="Processed Image", use_column_width=True)
-        
-        # Display the processed image
-        # st.image(processed_image[0].orig_img, caption="Processed Image", use_column_width=True)
-        st.text_area(label="results",value=processed_image[0].names)
+
+        # Display the results
+        st.header("Time Processing")
+        st.text_area(label="Preprocess", value=processed_image[0].speed.preprocessing)
+
 # Run the Streamlit app
 if __name__ == "__main__":
     main()
