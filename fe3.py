@@ -91,13 +91,13 @@ def main():
         # Display the results
         st.header("Time Processing")
         st.text("Preprocess")
-        st.caption(value=processed_image[0].speed['preprocess'])
+        st.caption(processed_image[0].speed['preprocess'])
         # st.text("Time takes for DL to apply Trained NN to new data")
         st.text("Inference")
-        st.caption(value=processed_image[0].speed['inference'])
+        st.caption(processed_image[0].speed['inference'])
         # st.text("Time takes for DL to apply Trained NN to new data")
         st.text("Postprocess")
-        st.caption(value=processed_image[0].speed['postprocess'])
+        st.caption(processed_image[0].speed['postprocess'])
 
 # Run the Streamlit app
 if __name__ == "__main__":
