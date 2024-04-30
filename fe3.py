@@ -15,17 +15,8 @@ storage_client = storage.Client()
 
 # Function to load the selected model
 def load_model(model_name, **kwargs):
-    if model_name == 'ResNet':
-        # Load ResNet model
-        resnet_model = fasterrcnn_resnet50_fpn(pretrained=True)
-        # Initialize Faster R-CNN
-        # Update ResNet model with new parameters if provided
-        if 'new_parameter' in kwargs:
-            new_parameter_value = kwargs['new_parameter']
-            # Set the new parameter in the ResNet model
-            resnet_model.set_new_parameter(new_parameter_value)
-        return resnet_model
-    elif model_name == 'YOLO':
+
+    if model_name == 'YOLO':
         # Load YOLO model
         yolo_model = YOLO("yolov8n.pt")
         # Update YOLO model with new parameters if provided
@@ -34,6 +25,21 @@ def load_model(model_name, **kwargs):
             # Set the new parameter in the YOLO model
             yolo_model.set_new_parameter(new_parameter_value)
         return yolo_model
+    
+    elif model_name == 'ResNet':
+        # Load ResNet model
+        faster_rcnn_model = fasterrcnn_resnet50_fpn(pretrained=True)
+        faster_rcnn_model.eval()
+
+        resnet_model = faster_rcnn_model(pretrained=True)
+        # Initialize Faster R-CNN
+        # Update ResNet model with new parameters if provided
+        if 'new_parameter' in kwargs:
+            new_parameter_value = kwargs['new_parameter']
+            # Set the new parameter in the ResNet model
+            resnet_model.set_new_parameter(new_parameter_value)
+        return resnet_model
+    
     else:
         raise ValueError("Invalid model selection")
 
