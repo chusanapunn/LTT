@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/0ef895ab526b4d9ca4be3ead7ce01b91/artifacts
+end_time: 1716316535180
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 0ef895ab526b4d9ca4be3ead7ce01b91
+run_name: capricious-carp-884
+run_uuid: 0ef895ab526b4d9ca4be3ead7ce01b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316532552
+status: 3
+tags: []
+user_id: dragxn

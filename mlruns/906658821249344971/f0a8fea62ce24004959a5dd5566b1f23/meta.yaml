@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/f0a8fea62ce24004959a5dd5566b1f23/artifacts
+end_time: 1716316759314
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: f0a8fea62ce24004959a5dd5566b1f23
+run_name: luminous-cub-362
+run_uuid: f0a8fea62ce24004959a5dd5566b1f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316757115
+status: 3
+tags: []
+user_id: dragxn

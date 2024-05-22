@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/56a4e2cd12f344b5a8a7bd601cc9f034/artifacts
+deleted_time: 1715858277570
+end_time: 1715712601011
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 56a4e2cd12f344b5a8a7bd601cc9f034
+run_name: sedate-kite-799
+run_uuid: 56a4e2cd12f344b5a8a7bd601cc9f034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715712599783
+status: 3
+tags: []
+user_id: dragxn

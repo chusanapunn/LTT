@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/fa1d020847dc433ba985cdb21a5e9f64/artifacts
+end_time: 1716320532085
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: fa1d020847dc433ba985cdb21a5e9f64
+run_name: wistful-stork-585
+run_uuid: fa1d020847dc433ba985cdb21a5e9f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716320525313
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/a6e805f3f64942dcafd2030b8148a331/artifacts
+deleted_time: 1715712420254
+end_time: 1715711214049
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: a6e805f3f64942dcafd2030b8148a331
+run_name: orderly-penguin-736
+run_uuid: a6e805f3f64942dcafd2030b8148a331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715711207872
+status: 3
+tags: []
+user_id: dragxn

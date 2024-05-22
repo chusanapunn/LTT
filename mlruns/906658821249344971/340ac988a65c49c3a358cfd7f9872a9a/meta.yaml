@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/340ac988a65c49c3a358cfd7f9872a9a/artifacts
+end_time: 1716317739941
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 340ac988a65c49c3a358cfd7f9872a9a
+run_name: industrious-auk-25
+run_uuid: 340ac988a65c49c3a358cfd7f9872a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317737543
+status: 4
+tags: []
+user_id: dragxn

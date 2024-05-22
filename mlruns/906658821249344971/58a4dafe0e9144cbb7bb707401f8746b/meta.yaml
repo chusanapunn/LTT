@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/58a4dafe0e9144cbb7bb707401f8746b/artifacts
+deleted_time: 1716314544190
+end_time: 1716314478023
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 58a4dafe0e9144cbb7bb707401f8746b
+run_name: melodic-stoat-844
+run_uuid: 58a4dafe0e9144cbb7bb707401f8746b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314475604
+status: 3
+tags: []
+user_id: dragxn

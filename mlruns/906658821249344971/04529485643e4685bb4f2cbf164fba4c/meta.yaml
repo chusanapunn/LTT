@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/04529485643e4685bb4f2cbf164fba4c/artifacts
+end_time: 1716321302060
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 04529485643e4685bb4f2cbf164fba4c
+run_name: unequaled-grub-726
+run_uuid: 04529485643e4685bb4f2cbf164fba4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321299039
+status: 4
+tags: []
+user_id: dragxn

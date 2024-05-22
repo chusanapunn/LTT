@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/5c751c35a0ab40e4b52a320b28ef5d9d/artifacts
+end_time: 1716320513631
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 5c751c35a0ab40e4b52a320b28ef5d9d
+run_name: thundering-chimp-981
+run_uuid: 5c751c35a0ab40e4b52a320b28ef5d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716320511087
+status: 3
+tags: []
+user_id: dragxn

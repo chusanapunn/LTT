@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/71a65001a4e64530949925d93ac50f9c/artifacts
+deleted_time: 1716198763507
+end_time: 1716198506260
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 71a65001a4e64530949925d93ac50f9c
+run_name: serious-flea-568
+run_uuid: 71a65001a4e64530949925d93ac50f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198502356
+status: 4
+tags: []
+user_id: dragxn

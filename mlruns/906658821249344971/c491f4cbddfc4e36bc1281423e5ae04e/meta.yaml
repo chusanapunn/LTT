@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/c491f4cbddfc4e36bc1281423e5ae04e/artifacts
+end_time: 1716322205416
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: c491f4cbddfc4e36bc1281423e5ae04e
+run_name: burly-crab-693
+run_uuid: c491f4cbddfc4e36bc1281423e5ae04e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716322202922
+status: 3
+tags: []
+user_id: dragxn

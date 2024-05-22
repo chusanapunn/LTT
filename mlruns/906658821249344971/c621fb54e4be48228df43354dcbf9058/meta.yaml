@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/c621fb54e4be48228df43354dcbf9058/artifacts
+end_time: 1716317758687
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: c621fb54e4be48228df43354dcbf9058
+run_name: stately-lark-488
+run_uuid: c621fb54e4be48228df43354dcbf9058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317756550
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/a5748b9eecfe4f5ca2164aeecda86048/artifacts
+deleted_time: 1716315016523
+end_time: 1716314619846
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: a5748b9eecfe4f5ca2164aeecda86048
+run_name: fortunate-cow-23
+run_uuid: a5748b9eecfe4f5ca2164aeecda86048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314617215
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/9fd5cd06074f47d3b28928079ddc3bef/artifacts
+end_time: 1716321963671
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 9fd5cd06074f47d3b28928079ddc3bef
+run_name: stylish-gnu-6
+run_uuid: 9fd5cd06074f47d3b28928079ddc3bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321959097
+status: 3
+tags: []
+user_id: dragxn

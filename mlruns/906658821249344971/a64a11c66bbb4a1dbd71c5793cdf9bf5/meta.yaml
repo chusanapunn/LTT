@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/a64a11c66bbb4a1dbd71c5793cdf9bf5/artifacts
+end_time: 1716317861023
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: a64a11c66bbb4a1dbd71c5793cdf9bf5
+run_name: fun-fawn-554
+run_uuid: a64a11c66bbb4a1dbd71c5793cdf9bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317858866
+status: 3
+tags: []
+user_id: dragxn

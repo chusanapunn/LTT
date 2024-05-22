@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/00818779dfe646f6b8ca09177f7809ce/artifacts
+end_time: 1716316812828
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 00818779dfe646f6b8ca09177f7809ce
+run_name: angry-finch-92
+run_uuid: 00818779dfe646f6b8ca09177f7809ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316810700
+status: 3
+tags: []
+user_id: dragxn

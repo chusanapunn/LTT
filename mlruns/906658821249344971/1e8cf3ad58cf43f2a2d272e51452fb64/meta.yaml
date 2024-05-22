@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1e8cf3ad58cf43f2a2d272e51452fb64/artifacts
+deleted_time: 1716315016526
+end_time: 1716314597106
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 1e8cf3ad58cf43f2a2d272e51452fb64
+run_name: inquisitive-stag-624
+run_uuid: 1e8cf3ad58cf43f2a2d272e51452fb64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314591520
+status: 3
+tags: []
+user_id: dragxn

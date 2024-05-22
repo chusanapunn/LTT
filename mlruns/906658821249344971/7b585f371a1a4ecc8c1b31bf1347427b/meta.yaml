@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/7b585f371a1a4ecc8c1b31bf1347427b/artifacts
+end_time: 1716316121492
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 7b585f371a1a4ecc8c1b31bf1347427b
+run_name: grandiose-owl-334
+run_uuid: 7b585f371a1a4ecc8c1b31bf1347427b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316119388
+status: 3
+tags: []
+user_id: dragxn

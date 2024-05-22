@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/e48ede3fc34645db8d60f38883d69ba5/artifacts
+end_time: 1716316777480
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: e48ede3fc34645db8d60f38883d69ba5
+run_name: rogue-lark-891
+run_uuid: e48ede3fc34645db8d60f38883d69ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316775246
+status: 3
+tags: []
+user_id: dragxn

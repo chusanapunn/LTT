@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/2cdc9ae36c7a4d08a2ceda3cd06393f4/artifacts
+end_time: 1716317911344
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 2cdc9ae36c7a4d08a2ceda3cd06393f4
+run_name: fortunate-skunk-106
+run_uuid: 2cdc9ae36c7a4d08a2ceda3cd06393f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317909775
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/b5ebb41f2f93415381f67438411d496c/artifacts
+end_time: 1716320519521
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: b5ebb41f2f93415381f67438411d496c
+run_name: judicious-sloth-562
+run_uuid: b5ebb41f2f93415381f67438411d496c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716320518394
+status: 3
+tags: []
+user_id: dragxn

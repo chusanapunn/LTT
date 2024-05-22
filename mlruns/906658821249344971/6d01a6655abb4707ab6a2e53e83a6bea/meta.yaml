@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/6d01a6655abb4707ab6a2e53e83a6bea/artifacts
+end_time: 1716317906236
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 6d01a6655abb4707ab6a2e53e83a6bea
+run_name: mysterious-cat-848
+run_uuid: 6d01a6655abb4707ab6a2e53e83a6bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317904746
+status: 3
+tags: []
+user_id: dragxn

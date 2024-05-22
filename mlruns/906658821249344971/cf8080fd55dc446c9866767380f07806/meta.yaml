@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/cf8080fd55dc446c9866767380f07806/artifacts
+deleted_time: 1716314544249
+end_time: 1716314386271
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: cf8080fd55dc446c9866767380f07806
+run_name: adorable-snake-447
+run_uuid: cf8080fd55dc446c9866767380f07806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314380784
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/7dddc9d74b224759826971e648e29974/artifacts
+end_time: 1716316285631
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 7dddc9d74b224759826971e648e29974
+run_name: flawless-pug-297
+run_uuid: 7dddc9d74b224759826971e648e29974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316284238
+status: 3
+tags: []
+user_id: dragxn

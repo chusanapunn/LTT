@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/af3fd24b24284693bf0303dadf25a418/artifacts
+end_time: 1716316240188
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: af3fd24b24284693bf0303dadf25a418
+run_name: dapper-hare-41
+run_uuid: af3fd24b24284693bf0303dadf25a418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316238143
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1b2aba54db284365942ccc0a6ac8fdec/artifacts
+end_time: 1716316816844
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 1b2aba54db284365942ccc0a6ac8fdec
+run_name: receptive-colt-760
+run_uuid: 1b2aba54db284365942ccc0a6ac8fdec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316814483
+status: 3
+tags: []
+user_id: dragxn

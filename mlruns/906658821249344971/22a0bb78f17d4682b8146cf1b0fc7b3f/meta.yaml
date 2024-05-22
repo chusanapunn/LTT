@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/22a0bb78f17d4682b8146cf1b0fc7b3f/artifacts
+deleted_time: 1715712420393
+end_time: 1715711180518
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 22a0bb78f17d4682b8146cf1b0fc7b3f
+run_name: exultant-calf-691
+run_uuid: 22a0bb78f17d4682b8146cf1b0fc7b3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715711178530
+status: 3
+tags: []
+user_id: dragxn

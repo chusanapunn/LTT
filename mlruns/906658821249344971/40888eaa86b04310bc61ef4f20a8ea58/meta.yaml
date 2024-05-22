@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/40888eaa86b04310bc61ef4f20a8ea58/artifacts
+end_time: 1716320941530
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 40888eaa86b04310bc61ef4f20a8ea58
+run_name: fortunate-sheep-470
+run_uuid: 40888eaa86b04310bc61ef4f20a8ea58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716320936790
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/c57f21f6ad8f44eb970e1d3b5764627c/artifacts
+deleted_time: 1716198763504
+end_time: 1716198557518
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: c57f21f6ad8f44eb970e1d3b5764627c
+run_name: victorious-shad-136
+run_uuid: c57f21f6ad8f44eb970e1d3b5764627c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198554828
+status: 4
+tags: []
+user_id: dragxn

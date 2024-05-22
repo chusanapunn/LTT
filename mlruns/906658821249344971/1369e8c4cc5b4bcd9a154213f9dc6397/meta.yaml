@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1369e8c4cc5b4bcd9a154213f9dc6397/artifacts
+end_time: 1716316531208
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 1369e8c4cc5b4bcd9a154213f9dc6397
+run_name: nervous-tern-707
+run_uuid: 1369e8c4cc5b4bcd9a154213f9dc6397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316525872
+status: 3
+tags: []
+user_id: dragxn

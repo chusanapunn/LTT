@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/d241ec11ecc242a3bb87bd2f9c3aeacb/artifacts
+end_time: 1716321564561
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: d241ec11ecc242a3bb87bd2f9c3aeacb
+run_name: puzzled-penguin-92
+run_uuid: d241ec11ecc242a3bb87bd2f9c3aeacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321562853
+status: 3
+tags: []
+user_id: dragxn

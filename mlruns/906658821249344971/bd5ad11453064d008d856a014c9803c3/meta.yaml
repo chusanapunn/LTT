@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/bd5ad11453064d008d856a014c9803c3/artifacts
+end_time: 1716317766732
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: bd5ad11453064d008d856a014c9803c3
+run_name: efficient-mole-876
+run_uuid: bd5ad11453064d008d856a014c9803c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317764620
+status: 3
+tags: []
+user_id: dragxn

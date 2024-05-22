@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/d643872d5ebb41d1b19e6cb2ee1864f9/artifacts
+end_time: 1716316131482
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: d643872d5ebb41d1b19e6cb2ee1864f9
+run_name: rebellious-tern-444
+run_uuid: d643872d5ebb41d1b19e6cb2ee1864f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316129409
+status: 3
+tags: []
+user_id: dragxn

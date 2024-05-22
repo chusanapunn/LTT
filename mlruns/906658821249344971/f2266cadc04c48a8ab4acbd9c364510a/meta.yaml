@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/f2266cadc04c48a8ab4acbd9c364510a/artifacts
+deleted_time: 1716314544253
+end_time: 1716314372995
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: f2266cadc04c48a8ab4acbd9c364510a
+run_name: unleashed-bird-937
+run_uuid: f2266cadc04c48a8ab4acbd9c364510a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314364633
+status: 3
+tags: []
+user_id: dragxn

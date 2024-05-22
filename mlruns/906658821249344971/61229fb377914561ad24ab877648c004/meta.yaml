@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/61229fb377914561ad24ab877648c004/artifacts
+deleted_time: 1716198763643
+end_time: 1715858306101
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 61229fb377914561ad24ab877648c004
+run_name: languid-rook-211
+run_uuid: 61229fb377914561ad24ab877648c004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715858301226
+status: 3
+tags: []
+user_id: dragxn

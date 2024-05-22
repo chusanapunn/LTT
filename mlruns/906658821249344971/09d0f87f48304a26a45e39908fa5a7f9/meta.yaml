@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/09d0f87f48304a26a45e39908fa5a7f9/artifacts
+end_time: 1716320501021
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 09d0f87f48304a26a45e39908fa5a7f9
+run_name: carefree-grouse-347
+run_uuid: 09d0f87f48304a26a45e39908fa5a7f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716320499561
+status: 3
+tags: []
+user_id: dragxn

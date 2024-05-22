@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/3abe9c0c0d104d5f9f8dc33726c724d4/artifacts
+end_time: 1716321340210
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 3abe9c0c0d104d5f9f8dc33726c724d4
+run_name: able-fowl-826
+run_uuid: 3abe9c0c0d104d5f9f8dc33726c724d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321340168
+status: 4
+tags: []
+user_id: dragxn

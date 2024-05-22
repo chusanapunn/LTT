@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/3344f2f87f374128a998a1302e3ba1eb/artifacts
+deleted_time: 1716315016455
+end_time: 1716314799455
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 3344f2f87f374128a998a1302e3ba1eb
+run_name: enchanting-snake-661
+run_uuid: 3344f2f87f374128a998a1302e3ba1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314796680
+status: 3
+tags: []
+user_id: dragxn

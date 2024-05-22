@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/12f6c892b5894661afbe122ef2b403dd/artifacts
+deleted_time: 1716314544298
+end_time: 1716201252983
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 12f6c892b5894661afbe122ef2b403dd
+run_name: polite-squirrel-447
+run_uuid: 12f6c892b5894661afbe122ef2b403dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716201251165
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/5108466a376a436e9e5201491c4e1e05/artifacts
+deleted_time: 1715711140663
+end_time: 1715707058729
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 5108466a376a436e9e5201491c4e1e05
+run_name: languid-rat-638
+run_uuid: 5108466a376a436e9e5201491c4e1e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715707056378
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/8ae08f9e879a4abd99f26686332ed0cf/artifacts
+deleted_time: 1716315016510
+end_time: 1716314703748
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 8ae08f9e879a4abd99f26686332ed0cf
+run_name: receptive-asp-235
+run_uuid: 8ae08f9e879a4abd99f26686332ed0cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314699349
+status: 3
+tags: []
+user_id: dragxn

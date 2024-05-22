@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/7d81291f5bc740f5bdb8bb73d1423a7d/artifacts
+end_time: 1716317874011
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 7d81291f5bc740f5bdb8bb73d1423a7d
+run_name: brawny-wren-730
+run_uuid: 7d81291f5bc740f5bdb8bb73d1423a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317871914
+status: 3
+tags: []
+user_id: dragxn

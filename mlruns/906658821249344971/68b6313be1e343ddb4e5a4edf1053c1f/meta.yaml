@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/68b6313be1e343ddb4e5a4edf1053c1f/artifacts
+deleted_time: 1716314544189
+end_time: 1716314498873
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 68b6313be1e343ddb4e5a4edf1053c1f
+run_name: amazing-wren-856
+run_uuid: 68b6313be1e343ddb4e5a4edf1053c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314495133
+status: 4
+tags: []
+user_id: dragxn

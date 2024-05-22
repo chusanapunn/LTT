@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/dec6fce791574389bfc6793071dff4d3/artifacts
+end_time: 1716316248835
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: dec6fce791574389bfc6793071dff4d3
+run_name: sincere-eel-703
+run_uuid: dec6fce791574389bfc6793071dff4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316246744
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/bf60eba5a75947b1b40b575767f5a62b/artifacts
+deleted_time: 1716314544281
+end_time: 1716200937139
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: bf60eba5a75947b1b40b575767f5a62b
+run_name: learned-bear-327
+run_uuid: bf60eba5a75947b1b40b575767f5a62b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716200935131
+status: 3
+tags: []
+user_id: dragxn

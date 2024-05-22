@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/3fcbf01bb0b54bf5b9de676da407a4f8/artifacts
+deleted_time: 1716314544227
+end_time: 1716314401092
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 3fcbf01bb0b54bf5b9de676da407a4f8
+run_name: grandiose-chimp-940
+run_uuid: 3fcbf01bb0b54bf5b9de676da407a4f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314398635
+status: 3
+tags: []
+user_id: dragxn

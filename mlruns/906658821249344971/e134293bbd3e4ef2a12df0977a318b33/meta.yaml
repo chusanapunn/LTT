@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/e134293bbd3e4ef2a12df0977a318b33/artifacts
+deleted_time: 1716315016460
+end_time: 1716314789499
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: e134293bbd3e4ef2a12df0977a318b33
+run_name: bedecked-snake-999
+run_uuid: e134293bbd3e4ef2a12df0977a318b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314782767
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/9c7e7de1c7544b2d90ddbbbfa614cc8f/artifacts
+end_time: 1716316274868
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 9c7e7de1c7544b2d90ddbbbfa614cc8f
+run_name: fun-carp-796
+run_uuid: 9c7e7de1c7544b2d90ddbbbfa614cc8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316273752
+status: 3
+tags: []
+user_id: dragxn

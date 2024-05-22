@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/ff4df8b5c7fb4a2699212e532356d4be/artifacts
+end_time: 1716321472838
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: ff4df8b5c7fb4a2699212e532356d4be
+run_name: fun-kite-659
+run_uuid: ff4df8b5c7fb4a2699212e532356d4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321467178
+status: 3
+tags: []
+user_id: dragxn

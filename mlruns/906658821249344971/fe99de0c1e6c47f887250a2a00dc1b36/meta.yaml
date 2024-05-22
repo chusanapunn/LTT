@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/fe99de0c1e6c47f887250a2a00dc1b36/artifacts
+end_time: 1716316462854
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: fe99de0c1e6c47f887250a2a00dc1b36
+run_name: adventurous-ant-809
+run_uuid: fe99de0c1e6c47f887250a2a00dc1b36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316460638
+status: 4
+tags: []
+user_id: dragxn

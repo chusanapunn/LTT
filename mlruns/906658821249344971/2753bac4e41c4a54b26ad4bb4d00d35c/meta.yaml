@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/2753bac4e41c4a54b26ad4bb4d00d35c/artifacts
+deleted_time: 1716315016517
+end_time: 1716314695421
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 2753bac4e41c4a54b26ad4bb4d00d35c
+run_name: bald-moose-504
+run_uuid: 2753bac4e41c4a54b26ad4bb4d00d35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314694040
+status: 3
+tags: []
+user_id: dragxn

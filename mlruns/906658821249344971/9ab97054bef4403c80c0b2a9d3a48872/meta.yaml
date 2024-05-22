@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/9ab97054bef4403c80c0b2a9d3a48872/artifacts
+deleted_time: 1716198763506
+end_time: 1715858362658
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 9ab97054bef4403c80c0b2a9d3a48872
+run_name: ambitious-fish-181
+run_uuid: 9ab97054bef4403c80c0b2a9d3a48872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715858359428
+status: 3
+tags: []
+user_id: dragxn

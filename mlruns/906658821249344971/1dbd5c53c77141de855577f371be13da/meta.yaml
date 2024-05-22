@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1dbd5c53c77141de855577f371be13da/artifacts
+end_time: 1716317903414
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 1dbd5c53c77141de855577f371be13da
+run_name: treasured-hawk-812
+run_uuid: 1dbd5c53c77141de855577f371be13da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317902057
+status: 3
+tags: []
+user_id: dragxn

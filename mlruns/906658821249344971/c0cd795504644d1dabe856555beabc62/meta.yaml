@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/c0cd795504644d1dabe856555beabc62/artifacts
+end_time: 1716316769958
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: c0cd795504644d1dabe856555beabc62
+run_name: sedate-hare-315
+run_uuid: c0cd795504644d1dabe856555beabc62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316767796
+status: 3
+tags: []
+user_id: dragxn

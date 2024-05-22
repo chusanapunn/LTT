@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/600e2f2315c84d6eb9623126293ebc0e/artifacts
+end_time: 1716321036024
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 600e2f2315c84d6eb9623126293ebc0e
+run_name: burly-donkey-680
+run_uuid: 600e2f2315c84d6eb9623126293ebc0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321011407
+status: 3
+tags: []
+user_id: dragxn

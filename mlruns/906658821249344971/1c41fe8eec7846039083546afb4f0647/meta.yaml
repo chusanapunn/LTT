@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1c41fe8eec7846039083546afb4f0647/artifacts
+end_time: 1716320476060
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 1c41fe8eec7846039083546afb4f0647
+run_name: nebulous-snipe-896
+run_uuid: 1c41fe8eec7846039083546afb4f0647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716320474276
+status: 3
+tags: []
+user_id: dragxn

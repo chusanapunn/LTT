@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/906658821249344971
+creation_time: 1715706675408
+experiment_id: '906658821249344971'
+last_update_time: 1715706675408
+lifecycle_stage: active
+name: car_detection_experiment

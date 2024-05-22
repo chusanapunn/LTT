@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/84ce482d15df4510a6e63cd4ee6c79a0/artifacts
+deleted_time: 1716315016527
+end_time: 1716314583317
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 84ce482d15df4510a6e63cd4ee6c79a0
+run_name: delicate-mule-273
+run_uuid: 84ce482d15df4510a6e63cd4ee6c79a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314581002
+status: 3
+tags: []
+user_id: dragxn

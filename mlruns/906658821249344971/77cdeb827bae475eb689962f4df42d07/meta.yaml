@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/77cdeb827bae475eb689962f4df42d07/artifacts
+end_time: 1716316774187
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 77cdeb827bae475eb689962f4df42d07
+run_name: serious-cub-782
+run_uuid: 77cdeb827bae475eb689962f4df42d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316771827
+status: 3
+tags: []
+user_id: dragxn

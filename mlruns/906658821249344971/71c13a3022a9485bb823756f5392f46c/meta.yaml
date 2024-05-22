@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/71c13a3022a9485bb823756f5392f46c/artifacts
+deleted_time: 1715712420259
+end_time: 1715711910981
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 71c13a3022a9485bb823756f5392f46c
+run_name: carefree-sloth-350
+run_uuid: 71c13a3022a9485bb823756f5392f46c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715711910022
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/51c57ca5bcd94d9e85e02f5aa6e57052/artifacts
+end_time: 1716316135973
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 51c57ca5bcd94d9e85e02f5aa6e57052
+run_name: redolent-grouse-848
+run_uuid: 51c57ca5bcd94d9e85e02f5aa6e57052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316133633
+status: 4
+tags: []
+user_id: dragxn

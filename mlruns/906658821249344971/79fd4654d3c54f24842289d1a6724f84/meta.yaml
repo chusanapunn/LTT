@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/79fd4654d3c54f24842289d1a6724f84/artifacts
+deleted_time: 1715858277574
+end_time: 1715712659460
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 79fd4654d3c54f24842289d1a6724f84
+run_name: blushing-ox-763
+run_uuid: 79fd4654d3c54f24842289d1a6724f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715712652710
+status: 3
+tags: []
+user_id: dragxn

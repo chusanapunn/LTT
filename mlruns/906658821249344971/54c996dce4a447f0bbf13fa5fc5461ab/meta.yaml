@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/54c996dce4a447f0bbf13fa5fc5461ab/artifacts
+end_time: 1716321925386
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 54c996dce4a447f0bbf13fa5fc5461ab
+run_name: handsome-midge-296
+run_uuid: 54c996dce4a447f0bbf13fa5fc5461ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321923251
+status: 3
+tags: []
+user_id: dragxn

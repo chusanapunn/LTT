@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1bf107e905774bda8b43a0995ace89c9/artifacts
+deleted_time: 1715712420254
+end_time: 1715711581135
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 1bf107e905774bda8b43a0995ace89c9
+run_name: rambunctious-mole-14
+run_uuid: 1bf107e905774bda8b43a0995ace89c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715711575973
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/5dc591138cdd4b2196da407759b28fe6/artifacts
+end_time: 1716316780950
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 5dc591138cdd4b2196da407759b28fe6
+run_name: trusting-fox-56
+run_uuid: 5dc591138cdd4b2196da407759b28fe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316778766
+status: 3
+tags: []
+user_id: dragxn

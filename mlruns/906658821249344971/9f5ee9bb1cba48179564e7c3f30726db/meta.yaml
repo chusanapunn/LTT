@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/9f5ee9bb1cba48179564e7c3f30726db/artifacts
+deleted_time: 1716315016453
+end_time: 1716314985791
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 9f5ee9bb1cba48179564e7c3f30726db
+run_name: nervous-duck-853
+run_uuid: 9f5ee9bb1cba48179564e7c3f30726db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314984581
+status: 3
+tags: []
+user_id: dragxn

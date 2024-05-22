@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/1e41ee6c6c55410191e9b65a5c6389e1/artifacts
+deleted_time: 1716314544304
+end_time: 1716198773598
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: 1e41ee6c6c55410191e9b65a5c6389e1
+run_name: whimsical-colt-724
+run_uuid: 1e41ee6c6c55410191e9b65a5c6389e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198771069
+status: 3
+tags: []
+user_id: dragxn

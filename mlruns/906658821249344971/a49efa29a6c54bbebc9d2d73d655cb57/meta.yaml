@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/a49efa29a6c54bbebc9d2d73d655cb57/artifacts
+end_time: 1716317937515
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: a49efa29a6c54bbebc9d2d73d655cb57
+run_name: bedecked-turtle-554
+run_uuid: a49efa29a6c54bbebc9d2d73d655cb57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317933457
+status: 3
+tags: []
+user_id: dragxn

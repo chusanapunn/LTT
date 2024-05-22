@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/fd59dc50a2414cc9a0f701aab8229259/artifacts
+deleted_time: 1716314544307
+end_time: 1716198580934
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: fd59dc50a2414cc9a0f701aab8229259
+run_name: adventurous-bat-348
+run_uuid: fd59dc50a2414cc9a0f701aab8229259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198577955
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/c797acf83dad4099b8985f4b365eb564/artifacts
+deleted_time: 1716315016502
+end_time: 1716314773891
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: c797acf83dad4099b8985f4b365eb564
+run_name: charming-wolf-205
+run_uuid: c797acf83dad4099b8985f4b365eb564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314769320
+status: 3
+tags: []
+user_id: dragxn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/d1489d096eec4b89897c3250076f3292/artifacts
+deleted_time: 1716315016517
+end_time: 1716314671999
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: d1489d096eec4b89897c3250076f3292
+run_name: nimble-gull-765
+run_uuid: d1489d096eec4b89897c3250076f3292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314665666
+status: 3
+tags: []
+user_id: dragxn

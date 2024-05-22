@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/ad065b9358f54a2cb71d7e2aeb222de9/artifacts
+deleted_time: 1716314544198
+end_time: 1716314416264
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: deleted
+run_id: ad065b9358f54a2cb71d7e2aeb222de9
+run_name: invincible-snipe-498
+run_uuid: ad065b9358f54a2cb71d7e2aeb222de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314405920
+status: 3
+tags: []
+user_id: dragxn

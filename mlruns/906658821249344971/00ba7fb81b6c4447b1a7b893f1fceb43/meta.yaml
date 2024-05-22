@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/00ba7fb81b6c4447b1a7b893f1fceb43/artifacts
+end_time: 1716321665682
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 00ba7fb81b6c4447b1a7b893f1fceb43
+run_name: marvelous-lamb-891
+run_uuid: 00ba7fb81b6c4447b1a7b893f1fceb43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716321664047
+status: 3
+tags: []
+user_id: dragxn

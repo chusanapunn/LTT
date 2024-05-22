@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/d2fe240923984e8a94b17d999d7ba52c/artifacts
+end_time: 1716316078233
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: d2fe240923984e8a94b17d999d7ba52c
+run_name: resilient-robin-529
+run_uuid: d2fe240923984e8a94b17d999d7ba52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316077138
+status: 3
+tags: []
+user_id: dragxn

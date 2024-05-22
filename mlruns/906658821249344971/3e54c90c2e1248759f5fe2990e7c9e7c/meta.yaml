@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/3e54c90c2e1248759f5fe2990e7c9e7c/artifacts
+end_time: 1716362472852
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 3e54c90c2e1248759f5fe2990e7c9e7c
+run_name: brawny-doe-837
+run_uuid: 3e54c90c2e1248759f5fe2990e7c9e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716362442417
+status: 4
+tags: []
+user_id: dragxn

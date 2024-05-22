@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/4ded1ba8a5dd45fa81a7f48e6d0c3bf1/artifacts
+end_time: 1716316126581
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 4ded1ba8a5dd45fa81a7f48e6d0c3bf1
+run_name: likeable-mouse-899
+run_uuid: 4ded1ba8a5dd45fa81a7f48e6d0c3bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716316124514
+status: 3
+tags: []
+user_id: dragxn

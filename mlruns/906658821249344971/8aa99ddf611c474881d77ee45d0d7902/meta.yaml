@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906658821249344971/8aa99ddf611c474881d77ee45d0d7902/artifacts
+end_time: 1716319293466
+entry_point_name: ''
+experiment_id: '906658821249344971'
+lifecycle_stage: active
+run_id: 8aa99ddf611c474881d77ee45d0d7902
+run_name: skillful-tern-829
+run_uuid: 8aa99ddf611c474881d77ee45d0d7902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716319293247
+status: 4
+tags: []
+user_id: dragxn
