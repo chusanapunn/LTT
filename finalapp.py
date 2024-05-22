@@ -1,17 +1,33 @@
 import streamlit as st
-from PIL import Image
-import numpy as np
-import torch
-from torchvision import transforms
-import torchvision
-import time
-import mlflow
-import mlflow.pytorch
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import cv2
+import time
+import numpy as np
+from PIL import Image
+# from google.cloud import storage
+import os
 from ultralytics import YOLO
+import torch
+from torchvision.models.detection import fasterrcnn_resnet50_fpn
+from logging import getLogger
+import logging
+import torchvision.transforms as transforms
+import torchvision
+import mlflow
+import seaborn as sns
+import mlflow.pytorch
+import torch.nn as nn
+import torch.optim as optim
+import matplotlib.pyplot as plt
+import pandas as pd
+# bucket_name = "mlops-car-detection"
+# os.environ.setdefault("GCLOUD_PROJECT", "mlops-cardetection")
+
+# Initialize the storage client
+# storage_client = storage.Client()
+
+app_logger = getLogger()
+app_logger.addHandler(logging.StreamHandler())
+app_logger.setLevel(logging.INFO)
 
 # Function to load the model with parameters
 def load_model(model_name):
@@ -101,7 +117,6 @@ def process_plot(model, selected_model, cv_image, image, **params):
     return cv_plot, processing_time
 
 
-# Function to plot metrics from MLflow
 def plot_metrics_from_mlflow():
     client = mlflow.tracking.MlflowClient()
     experiment = client.get_experiment_by_name("car_detection_experiment")
@@ -146,15 +161,25 @@ def plot_metrics_from_mlflow():
         # Plot bar charts
         fig, axes = plt.subplots(3, 1, figsize=(12, 15))
 
-        sns.lineplot(data=df[['Preprocess Time (ms)']], ax=axes[0], palette="Blues_d")
-        axes[0].set_title('Preprocess Time (ms)')
-        sns.lineplot(data=df[['Inference Time (ms)']], ax=axes[1], palette="Greens_d")
-        axes[1].set_title('Inference Time (ms)')
-        sns.lineplot(data=df[['Postprocess Time (ms)']], ax=axes[2], palette="Reds_d")
-        axes[2].set_title('Postprocess Time (ms)')
+        sns.lineplot(data=df[['Preprocess Time (ms)']], ax=axes[0], palette="Blues_d", marker="o")
+        axes[0].set_xlabel('Model (Run ID)')
+        axes[0].set_ylabel('Preprocess Time (ms)')
+        axes[0].set_title('Preprocess Time by Model and Run ID')
+
+        sns.lineplot(data=df[['Inference Time (ms)']], ax=axes[1], palette="Greens_d", marker="o")
+        axes[1].set_xlabel('Model (Run ID)')
+        axes[1].set_ylabel('Inference Time (ms)')
+        axes[1].set_title('Inference Time by Model and Run ID')
+
+        sns.lineplot(data=df[['Postprocess Time (ms)']], ax=axes[2], palette="Reds_d", marker="o")
+        axes[2].set_xlabel('Model (Run ID)')
+        axes[2].set_ylabel('Postprocess Time (ms)')
+        axes[2].set_title('Postprocess Time by Model and Run ID')
 
         plt.tight_layout()
         st.pyplot(fig)
+    else:
+        st.write("No experiment found with the name 'car_detection_experiment'")
 
 # Main Streamlit app
 def main():
@@ -223,8 +248,12 @@ def main():
             st.header("Time Processing")
             if selected_model == "YOLO":
                 st.text("Preprocess: {:.1f} ms".format(processing_time["preprocess"] ))
-                st.text("Inference: {:.1f} ms".format(processing_time["inference"]))
-                st.text("Postprocess: {:.1f} ms".format(processing_time["postprocess"]))
+                st.text("Inference: {:.1f} ms".format(processing_time["inference"] ))
+                st.text("Postprocess: {:.1f} ms".format(processing_time["postprocess"] ))
+            else:
+                st.text("Preprocess: {:.1f} ms".format(processing_time["preprocess"] * 1000))
+                st.text("Inference: {:.1f} ms".format(processing_time["inference"] * 1000))
+                st.text("Postprocess: {:.1f} ms".format(processing_time["postprocess"] * 1000))
 
     # Plot metrics from MLFlow
     st.header("Metrics from MLflow")
