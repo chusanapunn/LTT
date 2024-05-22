@@ -51,9 +51,8 @@ WIP -> use DVC to track GCS data version
 If anyone wanna work on this --> https://dvc.org/doc/user-guide/data-management/remote-storage/google-cloud-storage 
 
 ## Different models (resnet, mobilenet, yolo etc) - implement each with mlflow
-### Implement car detection model and metrics (recall, precision at k, AUC ROC etc.)
+### Implement car detection model
 
-Evaluation Metrics: Precision, Recall, AUC ROC, F1 Score.
 
 ## Allow using different models in the streamlit UI, input images, output interface
 
